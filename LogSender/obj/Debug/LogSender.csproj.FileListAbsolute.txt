@@ -1,0 +1,8 @@
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\bin\Debug\LogSender.exe.config
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\bin\Debug\LogSender.exe
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\bin\Debug\LogSender.pdb
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\obj\Debug\LogSender.csprojResolveAssemblyReference.cache
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\obj\Debug\LogSender.Properties.Resources.resources
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\obj\Debug\LogSender.csproj.GenerateResource.Cache
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\obj\Debug\LogSender.exe
+C:\Users\phuzE\Dropbox\Programming\LogSender\LogSender\obj\Debug\LogSender.pdb
